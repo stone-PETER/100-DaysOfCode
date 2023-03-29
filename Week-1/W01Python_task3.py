@@ -1,4 +1,4 @@
-a=[1,2,3]
-n=list(map(int,input().split(',')))
+ a=[1,2,3]
+n=eval(input("Enter the input:"))
 a.extend(n)
 print(a)
