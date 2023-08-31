@@ -1,0 +1,13 @@
+Exploratory Data Analysis(EDA) was conducted on "redit irritation.csv" Dataset
+Here are the key conclusions drawn from the EDA:
+
+The dataset encompasses information concerning users' irritation levels on Reddit.
+The age distribution within the dataset skews towards the younger user demographic.
+Users express a diverse range of irritation levels, indicating varying experiences.
+Gender distribution is not evenly balanced, with a higher representation of male respondents.
+A tentative positive correlation is observed between users' age and reported irritation levels.
+Comparable irritation levels are noted across different gender groups on average.
+Younger individuals tend to exhibit elevated irritation levels in general.
+The majority of users report lower levels of irritation, clustering in the lower range.
+No pronounced correlation is evident between users' age and their reported irritation levels.
+The dataset offers valuable insights into the demographics and irritation patterns of Reddit users.
